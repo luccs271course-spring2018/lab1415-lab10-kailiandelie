@@ -1,7 +1,0 @@
-src/test/java/edu/luc/cs271/myhashmap/TestMyHashMap.java,1512507220000000000,3015,FORMATTED
-src/main/java/edu/luc/cs271/country/CountryCodes.java,1512603832000000000,2387,FORMATTED
-src/main/java/edu/luc/cs271/countrymap/Main.java,1512595207000000000,512,FORMATTED
-src/main/java/edu/luc/cs271/CountryCodes.java,1512571152000000000,1091,FORMATTED
-src/main/java/edu/luc/cs271/country/Main.java,1512604092000000000,772,FORMATTED
-src/main/java/edu/luc/cs271/Main.java,1512511202000000000,148,FORMATTED
-src/main/java/edu/luc/cs271/countrymap/CountryCodes.java,1512595207000000000,1185,FORMATTED
